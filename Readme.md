@@ -71,7 +71,7 @@ Ao iniciar o programa, você verá um menu com as seguintes opções:
 ## 📝 Licença
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 ## ✍️ Autor
-Seu Nome - [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+Leonardo Dionisio - [lf714422@gmail.com](mailto:seu-email@exemplo.com)
 ## 🎯 Status do Projeto
 🚧 Em desenvolvimento
 ## 📌 Notas
